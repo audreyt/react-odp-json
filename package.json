@@ -1,0 +1,20 @@
+{
+  "name": "react-odp-json",
+  "description": "Convert ODP to JSON for react-odp",
+  "version": "0.0.1",
+  "homepage": "https://github.com/audreyt/react-odp-json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/audreyt/react-odp-json"
+  },
+  "dependencies": {
+    "jszip": "^2.5.0",
+    "xamel": "^0.3.1"
+  },
+  "bin": {
+    "react-odp-json": "./lib/main.js"
+  },
+  "engines": {
+    "node": ">= 0.8.x"
+  }
+}
